@@ -1,28 +1,57 @@
-<h1 align="center">Fala aí 👋, eu sou Felipe</h1>
+<h1 align="center">Felipe Bonifácio</h1>
 
 <p align="center">
-Desenvolvedor PHP/Laravel e JavaScript com +4 anos de experiência em sistemas SaaS, APIs e projetos reais.
+Desenvolvedor Fullstack focado em aplicações web, com experiência na construção de sistemas escaláveis, integrações com APIs e soluções voltadas para logística e automação de processos.
 </p>
 
 ---
 
-### 🚀 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 💻 Stack
+HTML • CSS • JavaScript • Bootstrap • jQuery • AJAX • JSON  
+PHP • Laravel • MySQL • APIs  
+Git • Kanban • Desenvolvimento Fullstack  
 
 ---
 
-### 📊 GitHub Stats
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonifacio25&show_icons=true&theme=dark)
+### 🚀 Experiência em Projetos
+
+#### 📦 Portal de Mensageria
+Atuação no desenvolvimento e evolução de um sistema completo de gestão logística e controle de entregas.
+
+**Principais contribuições:**
+- Desenvolvimento de módulos: Checklist, Postagem, Locker, Sala de Reunião, Relatórios, Perfil e Usuários  
+- Integração com APIs dos Correios (pré-postagem e rastreamento)  
+- Implementação de regras inteligentes para leitura e classificação de documentos jurídicos  
+- Criação de controles para auditorias, visitas e gestão de insumos  
+- Participação na evolução do sistema (versão 2 em Laravel e versão 3 em PHP)  
+- Migração de dados para mais de 15 clientes, com foco em performance e segurança  
 
 ---
 
-### 💡 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bonifacio25&layout=compact&theme=dark)
+#### 🛠️ Portal de Serviços
+Sistema de gestão de chamados, insumos e automação de atendimento.
+
+**Atuação:**
+- Desenvolvimento Fullstack  
+- Implementação de melhorias e correções  
+- Integração com API do WhatsApp  
+- Criação de chatbot para automação de atendimento  
+
+---
+
+#### 🚚 Portal de Envios para Transportes
+Sistema para gestão logística e geração de etiquetas.
+
+**Atuação:**
+- Desenvolvimento Fullstack  
+- Gestão de carteira de clientes  
+- Geração de etiquetas integrada com APIs dos Correios  
+- Desenvolvimento de relatórios operacionais  
+
+---
+
+### 🎯 Sobre mim
+Sou apaixonado por resolver problemas e transformar necessidades em soluções eficientes. Tenho foco em evolução constante, qualidade de código e construção de sistemas que realmente geram valor no negócio.
 
 ---
 
