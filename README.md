@@ -7,9 +7,9 @@ Desenvolvedor Fullstack em aplicações web, com experiência na construção de
 ---
 
 ### 💻 Stack
-HTML • CSS • JavaScript • Bootstrap • jQuery • AJAX • JSON  
+HTML • CSS • JavaScript • Bootstrap • jQuery 
 PHP • Laravel • MySQL • APIs  
-Git • Kanban • Desenvolvimento Fullstack  
+Git • Docker • Kanban
 
 ---
 
