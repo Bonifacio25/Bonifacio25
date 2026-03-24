@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Bonifácio</h1>
 
 <p align="center">
-Desenvolvedor Fullstack focado em aplicações web, com experiência na construção de sistemas escaláveis, integrações com APIs e soluções voltadas para logística e automação de processos.
+Desenvolvedor Fullstack em aplicações web, com experiência na construção de sistemas escaláveis para empresas de grande porte como Postalis e Pitney Bowes.
 </p>
 
 ---
@@ -21,7 +21,7 @@ Atuação no desenvolvimento e evolução de um sistema completo de gestão log�
 **Principais contribuições:**
 - Desenvolvimento de módulos: Checklist, Postagem, Locker, Sala de Reunião, Relatórios, Perfil e Usuários  
 - Integração com APIs dos Correios (pré-postagem e rastreamento)  
-- Implementação de regras inteligentes para leitura e classificação de documentos jurídicos  
+- Implementação de regras inteligentes para leitura e classificação de documentos jurídicos no módulo de digitalização
 - Criação de controles para auditorias, visitas e gestão de insumos  
 - Participação na evolução do sistema (versão 2 em Laravel e versão 3 em PHP)  
 - Migração de dados para mais de 15 clientes, com foco em performance e segurança  
@@ -32,21 +32,29 @@ Atuação no desenvolvimento e evolução de um sistema completo de gestão log�
 Sistema de gestão de chamados, insumos e automação de atendimento.
 
 **Atuação:**
-- Desenvolvimento Fullstack  
-- Implementação de melhorias e correções  
-- Integração com API do WhatsApp  
-- Criação de chatbot para automação de atendimento  
-
+- Desenvolvimento Fullstack (Frontend e Backend)
+- Arquitetura e construção de banco de dados escalável para suportar alto volume de interações
+- Desenvolvimento de middleware responsável pela integração entre a API oficial do WhatsApp (Meta), sistema interno e GLPI
+- Integração com APIs e implementação de Webhooks para comunicação em tempo real
+- Desenvolvimento de sistema de chat em tempo real
+- Criação de chatbot para automação de atendimento e abertura de chamados
+- Implementação de chatbot integrado ao WhatsApp (Meta)
+- Estruturação de fluxos automatizados para tratamento e direcionamento de solicitações
+- Manutenção evolutiva e atendimento de demandas
 ---
 
 #### 🚚 Portal de Envios para Transportes
-Sistema para gestão logística e geração de etiquetas.
+Sistema para gestão logística, controle de carteira e geração de etiquetas.
 
 **Atuação:**
-- Desenvolvimento Fullstack  
-- Gestão de carteira de clientes  
-- Geração de etiquetas integrada com APIs dos Correios  
-- Desenvolvimento de relatórios operacionais  
+- Desenvolvimento Fullstack (Frontend e Backend)
+- Modelagem e construção de banco de dados escalável para gestão de alto volume de envios
+- Implementação de controle de acesso com permissões por perfil, usuários e empresas
+- Desenvolvimento de módulos de Perfil e Usuários com segregação multiempresa
+- Estruturação de regras de negócio para separação de dados por empresa e controle de acesso
+- Integração com API dos Correios para pré-postagem e geração de etiquetas
+- Desenvolvimento de funcionalidades para solicitação e gerenciamento de pré-postagens
+- Criação de relatórios operacionais para acompanhamento logístico
 
 ---
 
