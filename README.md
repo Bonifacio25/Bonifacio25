@@ -1,7 +1,9 @@
 <h1 align="center">Felipe Bonifácio</h1>
 
 <p align="center">
-Desenvolvedor Fullstack em aplicações web, com experiência na construção de sistemas escaláveis para empresas de grande porte como Postalis e Pitney Bowes.
+Desenvolvedor Fullstack Pleno com mais de 4 anos de experiência no desenvolvimento de sistemas web e SaaS de grande porte. Atuação na construção e evolução de soluções escaláveis, com forte experiência em integrações com APIs (Meta, Correios e GLPI).
+ 
+Experiência em projetos para empresas como Postalis e Pitney Bowes, com foco em performance, qualidade de código e resolução de problemas críticos em sistemas de alta complexidade.
 </p>
 
 ---
